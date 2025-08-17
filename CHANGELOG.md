@@ -37,4 +37,8 @@
 * Update to Rebus 8
 * Update Serilog dependency to 3.0.1
 
+## 8.1.0
+* Update Serilog dependency to 4.3.0
+
+
 [rsivanov]: https://github.com/rsivanov

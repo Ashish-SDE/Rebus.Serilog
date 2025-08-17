@@ -27,7 +27,7 @@
 		</None>
 	</ItemGroup>
 	<ItemGroup>
-		<PackageReference Include="rebus" Version="8.0.1" />
-		<PackageReference Include="serilog" Version="3.0.1" />
+		<PackageReference Include="rebus" Version="8.8.0" />
+		<PackageReference Include="serilog" Version="4.3.0" />
 	</ItemGroup>
 </Project>
